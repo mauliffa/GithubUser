@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">GithubConsumer</string>
+    <string name="username">username</string>
+    <string name="name">name</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="repository">Repository: </string>
+    <string name="location">location</string>
+    <string name="company">company</string>
+    <string name="app_name_display">GITHUB\nUSER</string>
+    <string name="app_name_display_landscape">G\nI\nT\nH\nU\nB</string>
+    <string name="app_name_display_landscape2">U\nS\nE\nR</string>
+    <string name="background">background</string>
+    <string name="none">There\'s no favorite github user</string>
+    <string name="favorite_github_user">FAVORITE GITHUB USER</string>
+    <string name="blank">"  "</string>
+    <string name="favorite_photo">favorite photo</string>
+</resources>

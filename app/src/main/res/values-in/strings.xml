@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="username">nama pengguna</string>
+    <string name="name">nama</string>
+    <string name="following">Mengikuti</string>
+    <string name="followers">Pengikut</string>
+    <string name="repository">Tempat Penyimpanan: </string>
+    <string name="location">Lokasi</string>
+    <string name="company">Perusahaan</string>
+    <string name="app_name_display">GITHUB\nUSER</string>
+    <string name="app_name_display_landscape">G\nI\nT\nH\nU\nB</string>
+    <string name="app_name_display_landscape2">U\nS\nE\nR</string>
+    <string name="background">Foto dasar</string>
+    <string name="setting_button">Tombol Pengaturan</string>
+    <string name="notif_title">Halo!</string>
+    <string name="notif_message">Ada pengguna lain yang baru saja bergabung, ayo dilihat! </string>
+    <string name="alarm_on">"Pengingat diaktifkan."</string>
+    <string name="alarm_off">"Pengingat dinonaktifkan."</string>
+    <string name="languange_setting">Pengaturan  Bahasa</string>
+    <string name="activate_the_reminder">Aktifkan pengingat</string>
+    <string name="activate_the_reminder_detail">Jika anda mengaktifkan fitur ini, anda akan mendapatkan notifikasi setiap jam 9 pagi untuk membuka aplikasi.</string>
+    <string name="fav_button">Tombol menuju halaman user favorit</string>
+    <string name="id">ID:</string>
+    <string name="none">Belum ada pengguna github yang kamu suka</string>
+    <string name="add_user">Berhasil menambahkan user ini ke daftar favorit</string>
+    <string name="delete_user">Berhasil menghapus user ini dari daftar favorit</string>
+    <string name="appwidget_text">GITHUB USER</string>
+    <string name="add_widget">Tambahkan widget</string>
+    <string name="empty_widget">Tidak ada data</string>
+    <string name="favorite_github_user">PENGGUNA GITHUB FAVORIT</string>
+    <string name="blank"> </string>
+    <string name="logo">Ini adalah logo</string>
+</resources>

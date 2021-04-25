@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="username">username</string>
+    <string name="name">name</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="repository">Repository: </string>
+    <string name="location">location</string>
+    <string name="company">company</string>
+    <string name="app_name_display">GITHUB\nUSER</string>
+    <string name="app_name_display_landscape">G\nI\nT\nH\nU\nB</string>
+    <string name="app_name_display_landscape2">U\nS\nE\nR</string>
+    <string name="background">background</string>
+    <string name="setting_button">setting button</string>
+    <string name="notif_title">Hello there!</string>
+    <string name="notif_message">There\'s another user that joined today, check this out! </string>
+    <string name="alarm_on">"Reminder is on"</string>
+    <string name="alarm_off">"Reminder is off"</string>
+    <string name="languange_setting">Language Setting</string>
+    <string name="activate_the_reminder">Activate the reminder</string>
+    <string name="activate_the_reminder_detail">If you turn on this reminder, you will get a daily notification to check the app at 9 am.</string>
+    <string name="fav_button">fav button</string>
+    <string name="id">ID:</string>
+    <string name="none">There\'s no favorite github user</string>
+    <string name="add_user">Adding this user to favorite</string>
+    <string name="delete_user">Removing this user from favorite</string>
+    <string name="appwidget_text">GITHUB USER</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_widget">No Data</string>
+    <string name="favorite_github_user">FAVORITE GITHUB USER</string>
+    <string name="blank"> </string>
+    <string name="logo">this is logo</string>
+</resources>

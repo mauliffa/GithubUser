@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GithubConsumer</string>
+    <string name="username">nama pengguna</string>
+    <string name="name">nama</string>
+    <string name="following">Mengikuti</string>
+    <string name="followers">Pengikut</string>
+    <string name="repository">Tempat Penyimpanan: </string>
+    <string name="location">Lokasi</string>
+    <string name="company">Perusahaan</string>
+    <string name="app_name_display">GITHUB\nUSER</string>
+    <string name="app_name_display_landscape">G\nI\nT\nH\nU\nB</string>
+    <string name="app_name_display_landscape2">U\nS\nE\nR</string>
+    <string name="background">Foto dasar</string>
+    <string name="none">Belum ada pengguna github yang kamu suka</string>
+    <string name="favorite_github_user">PENGGUNA GITHUB FAVORIT</string>
+    <string name="blank">"  "</string>
+    <string name="favorite_photo">foto favorit</string>
+</resources>
